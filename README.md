@@ -79,4 +79,4 @@ WhatsApp bots, Telegram bots, Node.js, basic web stuff, or small automation tool
 
 If you'd like to support my work:
 
-[![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white)](mailto:smiledonwiz@gmail.com)
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white)](mailto:haydenbennial@gmail.com)
